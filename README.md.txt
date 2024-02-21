@@ -6,5 +6,8 @@ In this project I have worked on below points
 5. Analysis of the tables using MySQL workbench.
 6. Analysis of the data using Excel for Trends.
 7. Learning GIT
+8. Created PowerBI IG_CLONE dashboard
+9. Created Tableau IG_CLONE dashboard
+
 
 This is project is created using help of https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects/tree/master/Instagram%20Clone%20Project
